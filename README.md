@@ -81,7 +81,8 @@
 
 
 ### 示意圖 (Schematic)
-![Circuit Diagram](./images/circuit_diagram.png)
+<img width="2089" height="1439" alt="image" src="https://github.com/user-attachments/assets/040db124-f711-4f7d-b74f-3f8833096b71" />
+
 
 ---
 
