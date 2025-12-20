@@ -1,4 +1,4 @@
-# IoT Magic Wand: Wireless Gesture Control for Smart Lights
+# IoT Magic Wand: Control for Lights
 <img width="300px" alt="image" src="https://github.com/user-attachments/assets/d3f05142-55c0-4600-b6af-2fbce4b26a2b" />
 
 
